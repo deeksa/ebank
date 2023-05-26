@@ -1,0 +1,23 @@
+.container10 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.container11 {
+  background-color: #183b56;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container12 {
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.para {
+  color: white;
+}
